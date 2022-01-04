@@ -20,6 +20,6 @@ Their aren't any steps all you press is the link to get to the repl and run the 
 
 ## Usage
 
-When using this program you interact by it by just talking and answering questions just like you would with a real person!\
+When using this program you interact by it by just talking and answering questions just like you would with a real person!
 
 ### Any optional sections
