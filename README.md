@@ -23,3 +23,10 @@ Their aren't any steps all you press is the link to get to the repl and run the 
 When using this program you interact by it by just talking and answering questions just like you would with a real person!
 
 ### Any optional sections
+
+## Test Plan
+To test the project:
+
+1.  Run the test
+2.  Check the results
+3.  Add more information
